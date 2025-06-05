@@ -1,0 +1,10 @@
+node_modules
+.env*
+.git
+server
+client/src
+*.log
+.DS_Store
+build.js
+netlify.toml
+VERCEL_DEPLOYMENT.md
